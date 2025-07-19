@@ -1,0 +1,59 @@
+html {
+  background: rgb(83, 109, 131);
+}
+
+
+body {
+  background-color: rgb(144, 174, 207);
+  font-family: Arial;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  font-family: Arial; 
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 5px 16px;
+}
+
+ header {
+  padding: 20px 0;
+  text-align: center;
+  line-height: 2em;
+  color: rgb(255, 255, 255);
+}
+
+section {
+  font-family: Arial;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.row {
+  display: flex;           
+}
+
+.column {
+  flex: 50%;               
+  height: 300px;
+  padding: 20px;
+}
+
+ footer {
+  clear: both;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
