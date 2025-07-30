@@ -109,6 +109,20 @@ div.desc {
   text-align: center;
 }
 
+.accordion-body {
+  color: #111314;
+}
+
+.card-title {
+  color: rgb(76, 127, 172);
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #000000;
+}
+
  footer {
   clear: both;
   color: rgb(255, 255, 255);
