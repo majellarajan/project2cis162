@@ -110,7 +110,9 @@ div.desc {
 }
 
 .accordion-body {
-  color: #111314;
+  color: whitesmoke;
+  background-color: blue;
+  padding: 10px;
 }
 
 .card-title {
